@@ -1,3 +1,2 @@
 # ArcoBspwm
-# Mine Default
-# My back up file, nothing special here
+Mine Default, my back up file, nothing special here
